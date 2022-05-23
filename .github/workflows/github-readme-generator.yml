@@ -11,8 +11,8 @@ jobs:
     name: GitHub README Generator
     runs-on: ubuntu-latest
     steps:
-      - name: GitHub README Generator
-        uses: th3c0d3br34ker/github-readme-info@1.0.2
+      - name: 🤖 GitHub README Generator
+        uses: th3c0d3br34ker/github-readme-info@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           TIMEZONE: "America/Toronto"
