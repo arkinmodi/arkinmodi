@@ -7,36 +7,7 @@ My name is Arkin! I am a Final Year Software Engineering & Management Student at
 - 🎓 Software Engineering & Management @ McMaster University (Expected Graduation May 2023)
 - 🧑‍💻 Work Experience: IBM (Current)
 
-<!-- github.com/th3c0d3br34ker/github-readme-info -->
-<!--START_SECTION_PROFILE_VIEWS:readme-info-->
-**✨ 10 people were here!**
-
-
-<!--END_SECTION_PROFILE_VIEWS:readme-info-->
-
 ## 🚀 My Tech Stack
-
-<!-- github.com/th3c0d3br34ker/github-readme-info -->
-<!--START_SECTION_LANGUAGE:readme-info-->
-**My 💖 languages JavaScript** 
-
-| | | | |
-| --- | --- | --- | --- |
-|JavaScript               |9 repos|             ![](https://via.placeholder.com/128x22/000000/000000?text=+)![](https://via.placeholder.com/272x22/b8b8b8/b8b8b8?=text=+)|32.14%|
-|Python                   |7 repos|             ![](https://via.placeholder.com/100x22/000000/000000?text=+)![](https://via.placeholder.com/300x22/b8b8b8/b8b8b8?=text=+)|25.0%|
-|Java                     |2 repos|             ![](https://via.placeholder.com/28x22/000000/000000?text=+)![](https://via.placeholder.com/372x22/b8b8b8/b8b8b8?=text=+)|7.14%|
-|Objective-C              |2 repos|             ![](https://via.placeholder.com/28x22/000000/000000?text=+)![](https://via.placeholder.com/372x22/b8b8b8/b8b8b8?=text=+)|7.14%|
-|TypeScript               |1 repos|             ![](https://via.placeholder.com/16x22/000000/000000?text=+)![](https://via.placeholder.com/384x22/b8b8b8/b8b8b8?=text=+)|3.57%|
-|HTML                     |1 repos|             ![](https://via.placeholder.com/16x22/000000/000000?text=+)![](https://via.placeholder.com/384x22/b8b8b8/b8b8b8?=text=+)|3.57%|
-|Assembly                 |1 repos|             ![](https://via.placeholder.com/16x22/000000/000000?text=+)![](https://via.placeholder.com/384x22/b8b8b8/b8b8b8?=text=+)|3.57%|
-|C                        |1 repos|             ![](https://via.placeholder.com/16x22/000000/000000?text=+)![](https://via.placeholder.com/384x22/b8b8b8/b8b8b8?=text=+)|3.57%|
-|C#                       |1 repos|             ![](https://via.placeholder.com/16x22/000000/000000?text=+)![](https://via.placeholder.com/384x22/b8b8b8/b8b8b8?=text=+)|3.57%|
-|PHP                      |1 repos|             ![](https://via.placeholder.com/16x22/000000/000000?text=+)![](https://via.placeholder.com/384x22/b8b8b8/b8b8b8?=text=+)|3.57%|
-|TeX                      |1 repos|             ![](https://via.placeholder.com/16x22/000000/000000?text=+)![](https://via.placeholder.com/384x22/b8b8b8/b8b8b8?=text=+)|3.57%|
-|Shell                    |1 repos|             ![](https://via.placeholder.com/16x22/000000/000000?text=+)![](https://via.placeholder.com/384x22/b8b8b8/b8b8b8?=text=+)|3.57%|
-| | | | |
-
-<!--END_SECTION_LANGUAGE:readme-info-->
 
 <details open=true>
   <summary>Languages</summary>
