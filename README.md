@@ -6,7 +6,7 @@ My name is Arkin! I am a Final Year Software Engineering & Management Student at
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkinmodi/)
 
 - 🎓 Software Engineering & Management @ McMaster University (Expected Graduation May 2023)
-- 🧑‍💻 Work Experience: IBM (Current)
+- 🧑‍💻 Work Experience: IBM Canada (May 2021 - Aug 2022)
 
 ## 🚀 My Tech Stack
 
