@@ -1,6 +1,6 @@
 # Hi 👋, Welcome To My Profile!
 
-My name is Arkin! I am a Final Year Software Engineering & Management Student at McMaster University.
+My name is Arkin! I am a New Grad Junior Software Developer that is having fun exploring new technologies.
 
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://arkinmodi.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkinmodi/)
